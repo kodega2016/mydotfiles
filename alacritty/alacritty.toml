@@ -1,0 +1,19 @@
+import = [
+    "~/.config/alacritty/themes/tokyo-night.toml"
+]
+
+[font]
+size = 13
+
+[font.italic]
+family="Monoid Nerd Font Mono"
+style = "Italic"
+
+[font.normal]
+family="Monoid Nerd Font Mono"
+style= "Regular"
+
+[window]
+decorations="full"
+opacity=0.6
+blur=true
